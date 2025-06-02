@@ -1,0 +1,11 @@
+Mark="21 August"
+Shaurya="7 September"
+Aaron="10 December"
+Nathan="16 July"
+Aiden="4 February"
+print('Raj friends' 'birthday dates')
+print("Mark",Mark)      
+print("Shaurya",Shaurya)   
+print("Aaron",Aaron)     
+print("Nathan",Nathan)   
+print("Aiden",Aiden)    
