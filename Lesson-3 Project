@@ -1,1 +1,3 @@
-print("Cogartulations")
+let lowerText = "Congratulations";
+let upperText = LowerText.toUpperCase();
+console.log (Uppercase)
